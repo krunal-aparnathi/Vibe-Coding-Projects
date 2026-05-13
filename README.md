@@ -1,4 +1,4 @@
-\# 🧠 Resume Maker (Vibe Coding Project)
+# 🧠 Resume Maker (Vibe Coding Project)
 
 
 
@@ -10,7 +10,7 @@ A simple and modern \*\*Resume Maker Web Application\*\* built using vibe coding
 
 
 
-\## 🚀 Features
+## 🚀 Features
 
 
 
