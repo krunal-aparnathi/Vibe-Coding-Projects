@@ -1,4 +1,4 @@
-\# 🚀 Vibe Resume Maker
+# 🚀 Vibe Resume Maker
 
 
 
@@ -6,55 +6,55 @@ A minimalist, high-performance resume builder built with a "vibe coding" philoso
 
 
 
-\## ✨ Features
+## ✨ Features
 
 
 
-\- \*\*Live Preview:\*\* Real-time editing with an instant side-by-side preview.
+- \*\*Live Preview:\*\* Real-time editing with an instant side-by-side preview.
 
-\- \*\*Modern Templates:\*\* Clean, professional designs tailored for the tech industry.
+- \*\*Modern Templates:\*\* Clean, professional designs tailored for the tech industry.
 
-\- \*\*Markdown Support:\*\* Write your experience naturally using markdown-inspired formatting.
+- \*\*Markdown Support:\*\* Write your experience naturally using markdown-inspired formatting.
 
-\- \*\*PDF Export:\*\* High-quality, print-ready PDF generation.
+- \*\*PDF Export:\*\* High-quality, print-ready PDF generation.
 
-\- \*\*Responsive Design:\*\* Build your resume on any device, from desktop to mobile.
+- \*\*Responsive Design:\*\* Build your resume on any device, from desktop to mobile.
 
-\- \*\*One-Click Deploy:\*\* Optimized for cloud environments.
-
-
-
-\## 🛠️ Tech Stack
+- \*\*One-Click Deploy:\*\* Optimized for cloud environments.
 
 
 
-\- \*\*Framework:\*\* \[Next.js](https://nextjs.org/) (App Router)
-
-\- \*\*Styling:\*\* \[Tailwind CSS](https://tailwindcss.com/)
-
-\- \*\*Deployment:\*\* \[Google Cloud Run](https://cloud.google.com/run)
-
-\- \*\*Icons:\*\* Lucide React / Phospor Icons
-
-\- \*\*Components:\*\* Radix UI / Shadcn UI
+## 🛠️ Tech Stack
 
 
 
-\## 🚀 Getting Started
+- \*\*Framework:\*\* \[Next.js](https://nextjs.org/) (App Router)
+
+- \*\*Styling:\*\* \[Tailwind CSS](https://tailwindcss.com/)
+
+- \*\*Deployment:\*\* \[Google Cloud Run](https://cloud.google.com/run)
+
+- \*\*Icons:\*\* Lucide React / Phospor Icons
+
+- \*\*Components:\*\* Radix UI / Shadcn UI
 
 
 
-\### Prerequisites
+## 🚀 Getting Started
 
 
 
-\- Node.js 18+ 
-
-\- npm / pnpm / yarn
+### Prerequisites
 
 
 
-\### Installation
+- Node.js 18+ 
+
+- npm / pnpm / yarn
+
+
+
+### Installation
 
 
 
