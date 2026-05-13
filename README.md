@@ -1,32 +1,26 @@
-\# 🧠 Resume Maker (Vibe Coding Project)
+\# 🚀 Vibe Resume Maker
 
 
 
-A simple and modern \*\*Resume Maker Web Application\*\* built using vibe coding tools. This project allows users to quickly create professional resumes with a clean UI and minimal effort.
+A minimalist, high-performance resume builder built with a "vibe coding" philosophy—focusing on speed, clean aesthetics, and seamless user experience. Create professional, ATS-friendly resumes in minutes.
 
 
 
-\---
+\## ✨ Features
 
 
 
-\## 🚀 Features
+\- \*\*Live Preview:\*\* Real-time editing with an instant side-by-side preview.
 
+\- \*\*Modern Templates:\*\* Clean, professional designs tailored for the tech industry.
 
+\- \*\*Markdown Support:\*\* Write your experience naturally using markdown-inspired formatting.
 
-\- 📝 Create and edit resume details easily  
+\- \*\*PDF Export:\*\* High-quality, print-ready PDF generation.
 
-\- 🎨 Clean and user-friendly interface  
+\- \*\*Responsive Design:\*\* Build your resume on any device, from desktop to mobile.
 
-\- 📄 Generate professional resume layout  
-
-\- ⚡ Fast and lightweight  
-
-\- 🔧 Built using AI-assisted (vibe coding) development  
-
-
-
-\---
+\- \*\*One-Click Deploy:\*\* Optimized for cloud environments.
 
 
 
@@ -34,19 +28,41 @@ A simple and modern \*\*Resume Maker Web Application\*\* built using vibe coding
 
 
 
-\- Frontend: HTML, CSS, JavaScript  
+\- \*\*Framework:\*\* \[Next.js](https://nextjs.org/) (App Router)
 
-\- Backend: (Optional) Node.js / Express  
+\- \*\*Styling:\*\* \[Tailwind CSS](https://tailwindcss.com/)
 
-\- Tools: ChatGPT, GitHub Copilot  
+\- \*\*Deployment:\*\* \[Google Cloud Run](https://cloud.google.com/run)
 
+\- \*\*Icons:\*\* Lucide React / Phospor Icons
 
-
-\---
-
-
-
-\## 📂 Project Structure
+\- \*\*Components:\*\* Radix UI / Shadcn UI
 
 
+
+\## 🚀 Getting Started
+
+
+
+\### Prerequisites
+
+
+
+\- Node.js 18+ 
+
+\- npm / pnpm / yarn
+
+
+
+\### Installation
+
+
+
+1\. \*\*Clone the repository:\*\*
+
+&#x20;  ```bash
+
+&#x20;  git clone \[https://github.com/your-username/vibe-resume-maker.git](https://github.com/your-username/vibe-resume-maker.git)
+
+&#x20;  cd vibe-resume-maker
 
