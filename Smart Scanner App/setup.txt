@@ -1,0 +1,1 @@
+pip install pillow pywin32 pymupdf
